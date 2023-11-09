@@ -2,4 +2,4 @@ welcome:
   message: welcome to the github test
 maxDeptURL: http://localhost:8082/emp/maxDept
 addEmpURL: http://localhost:8082/emp/addEmp
-getAllEmpURL: http://localhost:8082/emp/addEmp
+getAllEmpURL: http://localhost:8082/emp/allEmp
